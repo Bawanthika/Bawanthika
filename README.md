@@ -39,7 +39,7 @@
 
 * **[Personalized Learning Path Recommender](https://github.com/Sachinthadilz/Personalized-Learning-path-Recommender--Research-Project)** — ML-driven study path recommendation system for MOOCs built with React.js, Spring Boot, and MySQL.
 * **[Hiru Zone Tours](https://github.com/Bawanthika/hiru-zone-tours)** — Live Sri Lanka private tour booking website with WhatsApp integration and a Firebase-powered admin dashboard ([Live Demo](https://hiru-zone-tours.vercel.app)).
-* **[Apex Construction](https://github.com/Bawanthika/Apex-Construction)** — Full-stack construction project, resource, and workforce management platform (React.js, Spring Boot, Tailwind CSS, MySQL).
+* **[Apex Construction](https://github.com/Bawanthika/Apex-Construction)** — Full-stack construction project, resource, and workforce management platform (React.js, Node.js, Express, MongoDB).
 * **[BookNest](https://github.com/Bawanthika/BookNest)** — Online Bookstore Management System built with Java Servlets, JSP, and MySQL applying Object-Oriented Programming principles.
 * **[Plant Health App](https://github.com/Bawanthika)** — Bilingual (Sinhala/English) mobile application for photo-based tomato and paddy leaf disease diagnosis (Expo / TypeScript).
 
