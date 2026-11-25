@@ -19,8 +19,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 **Databases, Cloud & Analytics**
@@ -39,9 +40,10 @@
 
 * **[Personalized Learning Path Recommender](https://github.com/Sachinthadilz/Personalized-Learning-path-Recommender--Research-Project)** — ML-driven study path recommendation system for MOOCs built with React.js, Spring Boot, and MySQL.
 * **[Hiru Zone Tours](https://github.com/Bawanthika/hiru-zone-tours)** — Live Sri Lanka private tour booking website with WhatsApp integration and a Firebase-powered admin dashboard ([Live Demo](https://hiru-zone-tours.vercel.app)).
-* **[Apex Construction](https://github.com/Bawanthika/Apex-Construction)** — Full-stack construction project, resource, and workforce management platform (React.js, Node.js, Express, MongoDB).
+* **[Apex Construction](https://github.com/Bawanthika/Apex-Construction)** — Full-stack construction site, employee, and customer management platform (React.js, Node.js, Express, MongoDB).
+* **[E-Commerce & Course Platform](https://github.com/Bawanthika/ecommerce)** — Full-stack web application featuring product catalog management, course enrollments, order/payment processing, and role-based admin controls (Laravel, PHP, Tailwind CSS, MySQL).
 * **[BookNest](https://github.com/Bawanthika/BookNest)** — Online Bookstore Management System built with Java Servlets, JSP, and MySQL applying Object-Oriented Programming principles.
-* **[Plant Health App](https://github.com/Bawanthika)** — Bilingual (Sinhala/English) mobile application for photo-based tomato and paddy leaf disease diagnosis (Expo / TypeScript).
+* **[CareChannel](https://github.com/Bawanthika/careChannel)** — Native Android mobile application for managing personal healthcare notes and medical records with offline SQLite storage (Kotlin, Android SDK).
 
 ---
 
