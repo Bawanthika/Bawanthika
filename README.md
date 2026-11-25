@@ -48,5 +48,5 @@
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/bawanthika-nirmani-682ab937](https://www.linkedin.com/in/bawanthika-nirmani-682ab937)
+* 💼 **LinkedIn:** [linkedin.com/in/bawanthika-nirmani-682ab937](www.linkedin.com/in/bawanthika-nirmani-682ab9372)
 * 📧 **Email:** bawanthika2001@gmail.com
